@@ -18,5 +18,5 @@ def levi(l,n):
         levi(l*(2)**0.5/2, n-1)
         tr.left(45)
 
-levi(400,12)
+levi(400,7)
 tr.mainloop()
